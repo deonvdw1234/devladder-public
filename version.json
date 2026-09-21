@@ -1,0 +1,12 @@
+{
+  "latestVersionCode": 3,
+  "latestVersionName": "1.0.1",
+  "minimumSupportedVersionCode": 1,
+  "apkUrl": "https://deonvdw1234.github.io/devladder-public/DevLadder-1.0.1.apk",
+  "releaseNotes": "First public release of DevLadder.",
+  "releasedAt": "2026-09-20",
+  "contentVersion": 1,
+  "contentUrl": "https://deonvdw1234.github.io/devladder-public/content/pack-1.zip",
+  "contentSha256": "",
+  "sig": "54PPPEZWHNYH79P5"
+}

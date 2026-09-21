@@ -1,0 +1,4 @@
+# Signed by the DevLadder activation service: the last line SIG=... is required; the app ignores an unsigned or altered file.
+# DevLadder revocation list. One entry per line. Lines starting with # are ignored.
+# Formats: SOFT-S2:2026S2:HASH12  (all devices)   SOFT-S2:2026S2:HASH12:DEVCODE  (one device)   17  (lecturer serial)   BETA:serial   BETA:startYmd:serial
+SIG=8BDWK2X4UB7T6HGC
